@@ -30,4 +30,5 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 📫 You can reach me through:
 email at <lauraspberrypie@gmail.com>!
 linkedin: https://www.linkedin.com/in/laurapei/
+
 ⚡ Fun fact: One day (post-COVID), I hope to travel the world <3
