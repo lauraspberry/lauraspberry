@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm student at UC Berkeley studying Electrical Engineering and Computer Science, and I love to create!
 
 🔭 I’m currently working on building an interface and API for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between clients and case managers. 
+
 🌱 I’m currently learning how to build my own [website](https://lauraspberry.github.io/) that contains my [artworks](https://lauraspberrypie.wixsite.com/website)!
 👯 Some things I'm proud of: 
 * The contributions I made as a Co-Founder of [Education For All Foundation](https://www.efaglobal.org/about-us)
