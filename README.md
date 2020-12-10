@@ -23,7 +23,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 👯 Some things I'm proud of: 
 * The contributions I made as a Co-Founder of [Education For All Foundation](https://www.efaglobal.org/about-us) :green_heart:
-* The games I made using Unity: [Shrink](https://lauraspberry.itch.io/shrink) and [Attack of the Boba Vampires](https://troutstick.itch.io/bobavamps-01) :tropical_drink:
+* The games I made using Unity: [Shrink](https://lauraspberry.itch.io/shrink) and [Attack of the Boba Vampires](https://troutstick.itch.io/bobavamps-01) :sunny:
 * The curriculum I built for [CS Kickstart](https://cs-kickstart.berkeley.edu/index.html) :computer: :bear:
 
 
@@ -31,4 +31,4 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 📫 You can reach me through email at <lauraspberrypie@gmail.com>, or through linkedin at https://www.linkedin.com/in/laurapei/
 
-⚡ Fun fact: One day (post-COVID), I hope to travel the world :earth_americas: :dizzy:
+⚡ Fun fact: One day (post-COVID), I hope to travel the world! :earth_americas: :dizzy: :sparkles:
