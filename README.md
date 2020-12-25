@@ -20,7 +20,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 🔭 I’m currently working on building a Slack Bot and API for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between clients and case managers. 
 
-🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm using a variety of digital art software!
+🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm using a variety of digital art software! (see my [portfolio](https://lauraspberrypie.wixsite.com/website))
 
 👯 Some things I'm proud of: 
 * The contribution's I'll make for next year's [Association of Women Engineers](https://awe.berkeley.edu/) as Operations AWEfficer :heartpulse:
