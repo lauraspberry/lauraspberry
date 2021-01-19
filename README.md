@@ -23,7 +23,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm using a variety of digital art software! (see my [art account](https://instagram.com/andlauradraws))
 
 👯 Some things I'm proud of: 
-* The contribution's I'll make for next year's [Association of Women Engineers](https://awe.berkeley.edu/) as Operations AWEfficer :heartpulse:
+* The contribution's I'll make for this year's [Association of Women Engineers](https://awe.berkeley.edu/) as Operations AWEfficer :heartpulse:
 * The decal (student-led class) I'll facilitate next semester for [Game Design and Development](https://gamedesign.berkeley.edu/index.php) :computer:
 * The contributions I made as a Co-Founder of [Education For All Foundation](https://www.efaglobal.org/about-us) :green_heart:
 * The games I made using Unity: [Shrink](https://lauraspberry.itch.io/shrink) and [Attack of the Boba Vampires](https://troutstick.itch.io/bobavamps-01) :sunny:
