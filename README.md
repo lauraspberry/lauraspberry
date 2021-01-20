@@ -32,7 +32,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 😄 From these projects, I've worked with C#, Python, JavaScript, HTML/CSS as well as developer tools such as React, Flask, and Bootstrap to develop software.
 
-📫 You can reach me through email at <lauraxpei@gmail.com>, or through linkedin at https://www.linkedin.com/in/laurapei/
+📫 You can reach me through email at <laur@berkeley.edu>, or through linkedin at https://www.linkedin.com/in/laurapei/
 
 ⚡ Fun fact: One day (post-COVID), I hope to travel the world! :earth_americas: :dizzy: :sparkles:
 
