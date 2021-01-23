@@ -23,7 +23,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm using a variety of digital art software! (see my [art account](https://instagram.com/andlauradraws))
 
 👯 Some things I'm proud of: 
-* Creating and designed a web application for a [hackathon](https://devpost.com/software/ingrain) that won a $99 prize for best design :heartpulse:
+* Creating and designed a web application for a [hackathon](https://devpost.com/software/ingrain) that won a $99 prize for best design 
 * The contribution's I'll make for this year's [Association of Women Engineers](https://awe.berkeley.edu/) as Operations AWEfficer :heartpulse:
 * The decal (student-led class) I'll facilitate next semester for [Game Design and Development](https://gamedesign.berkeley.edu/index.php) :computer:
 * The contributions I made as a Co-Founder of [Education For All Foundation](https://www.efaglobal.org/about-us) :green_heart:
