@@ -20,7 +20,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 🔭 I’m currently working on building a Slack Bot and API for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between clients and case managers. 
 
-🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm using a variety of digital art software! (see my Instagram [art account](https://instagram.com/andlauradraws)!)
+🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm using a variety of digital art software!
 
 👯 Some things I'm proud of: 
 * Creating and designing a web application for a [hackathon](https://devpost.com/software/ingrain) that won a $99 prize for best design :sunny:
