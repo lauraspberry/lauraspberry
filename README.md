@@ -31,7 +31,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 * The curriculum I'm building for next year's [CS Kickstart](https://cs-kickstart.berkeley.edu/index.html) program :bear:
 
 
-😄 From these projects, I've worked with C#, Python, Java, Javascript, HTML/CSS as well as developer tools such as React, Flask, and Bootstrap to develop software.
+😄 From these projects, I've worked with C#, Python, Java, Javascript, HTML/CSS as well as developer tools such as React, Flask, and Bootstrap to develop software!
 
 📫 You can reach me through email at <laur@berkeley.edu>, or through linkedin at https://www.linkedin.com/in/laurapei/
 
