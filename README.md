@@ -24,7 +24,8 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 👯 Some things I'm proud of: 
 * Creating and designing a web application for a [hackathon](https://devpost.com/software/ingrain) that won a $99 prize for best design :sunny:
-* The contribution's I'll make for this year's [Association of Women Engineers](https://awe.berkeley.edu/) as Operations AWEfficer :heartpulse:
+* The contribution's I'll make for this year's [Association of Women Engineers](https://awe.berkeley.edu/) as Operations 
+Officer :heartpulse:
 * The decal (student-led class) I'll facilitate next semester for [Game Design and Development](https://gamedesign.berkeley.edu/index.php) :computer:
 * The contributions I made as a Co-Founder of [Education For All Foundation](https://www.efaglobal.org/about-us) :green_heart:
 * The games I made using Unity: [Shrink](https://lauraspberry.itch.io/shrink) and [Attack of the Boba Vampires](https://troutstick.itch.io/bobavamps-01) :sunny:
