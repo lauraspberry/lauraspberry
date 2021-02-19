@@ -24,6 +24,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm using a variety of digital art software!
 
+<!--
 👯 Some things I'm proud of: 
 * Creating and designing a web application for a [hackathon](https://devpost.com/software/ingrain) that won a prize for best design :sunny:
 * The contribution's I'll make for this year's [Association of Women Engineers](https://awe.berkeley.edu/) as Operations 
@@ -32,7 +33,7 @@ Officer :heartpulse:
 * The contributions I made as a Co-Founder of [Education For All Foundation](https://www.efaglobal.org/about-us) :green_heart:
 * The games I made using Unity: [Shrink](https://lauraspberry.itch.io/shrink) and [Attack of the Boba Vampires](https://troutstick.itch.io/bobavamps-01) :sunny:
 * The curriculum I'm building for next year's [CS Kickstart](https://cs-kickstart.berkeley.edu/index.html) program :bear:
-
+-->
 
 😄 From these projects, I've worked with C#, Python, Java, Javascript, HTML/CSS as well as developer tools such as React, Flask, and Bootstrap to develop software!
 
