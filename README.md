@@ -33,11 +33,10 @@ Officer :heartpulse:
 * The contributions I made as a Co-Founder of [Education For All Foundation](https://www.efaglobal.org/about-us) :green_heart:
 * The games I made using Unity: [Shrink](https://lauraspberry.itch.io/shrink) and [Attack of the Boba Vampires](https://troutstick.itch.io/bobavamps-01) :sunny:
 * The curriculum I'm building for next year's [CS Kickstart](https://cs-kickstart.berkeley.edu/index.html) program :bear:
+⚡ Fun fact: One day (post-COVID), I hope to travel the world! :earth_americas: :dizzy: :sparkles:
 -->
 
 😄 From these projects, I've worked with C#, Python, Java, Javascript, HTML/CSS as well as developer tools such as React, Flask, and Bootstrap to develop software!
 
 📫 You can reach me through email at <laur@berkeley.edu>, or through linkedin at https://www.linkedin.com/in/laurapei/
-
-⚡ Fun fact: One day (post-COVID), I hope to travel the world! :earth_americas: :dizzy: :sparkles:
 
