@@ -18,7 +18,7 @@ https://gist.github.com/rxaviers/7360908 for emojis (my source!)
 
 I'm student at UC Berkeley studying Electrical Engineering and Computer Science, and I love to create!
 
-:sunny: I'm looking forward to building web applications with [Web Development at Berkeley](https://webatberkeley.org/) for various clients. 
+:sunny: I'm looking forward to building web applications with [Web Development at Berkeley](https://webatberkeley.org/) for various clients; I am currently designing for [Ansari](https://www.ansarimath.com/). 
 
 🔭 I’m currently working on building a Slack Bot and API for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between clients and case managers. 
 
