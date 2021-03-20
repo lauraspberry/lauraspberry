@@ -20,7 +20,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 :sunny: I'm building web applications with [Web Development at Berkeley](https://webatberkeley.org/) for various clients!
 
-🔭 I’m currently working on building a Slack Bot and API for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between clients and case managers. 
+🔭 I’m currently working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between clients and case managers. 
 
 🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm using a variety of digital art methods :)!
 
