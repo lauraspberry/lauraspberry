@@ -36,7 +36,7 @@ Officer :heartpulse:
 ⚡ Fun fact: One day (post-COVID), I hope to travel the world! :earth_americas: :dizzy: :sparkles:
 -->
 
-😄 From these projects, I've worked with C#, Python, Java, Javascript, HTML/CSS as well as developer tools such as React, Flask, and Bootstrap to develop software!
+😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, C#, as well as developer tools such as React, Flask, and Bootstrap to develop software!
 
 📫 You can reach me through email at <laur@berkeley.edu>, or through linkedin at https://www.linkedin.com/in/laurapei/
 
