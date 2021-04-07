@@ -25,7 +25,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm using a variety of digital art methods :)
 
 <!--
-👯 Some things I'm proud of: 
+👯 Some things I'm proud of:   
 * Creating and designing a web application for a [hackathon](https://devpost.com/software/ingrain) that won a prize for best design :sunny:
 * The contribution's I'll make for this year's [Association of Women Engineers](https://awe.berkeley.edu/) as Operations 
 Officer :heartpulse:
