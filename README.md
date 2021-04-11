@@ -38,5 +38,5 @@ Officer :heartpulse:
 
 😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, C#, as well as developer tools such as React, Flask, and Bootstrap to develop software!
 
-📫 You can reach me through email at <laur@berkeley.edu>, or through linkedin at https://www.linkedin.com/in/laurapei/
+📫 You can reach me through email at <laur@berkeley.edu>, or through LinkedIn at https://www.linkedin.com/in/laurapei/
 
