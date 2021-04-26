@@ -22,7 +22,7 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 🔭 I’m currently working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between clients and case managers.
 
-🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm using a variety of digital art methods :) check out some of my work [here](https://laurapei.carrd.co/)!
+🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm :) check out some of my work [here](https://laurapei.carrd.co/)!
 
 <!--
 👯 Some things I'm proud of:   
