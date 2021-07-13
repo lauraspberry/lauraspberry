@@ -18,11 +18,15 @@ https://gist.github.com/rxaviers/7360908 for emojis (my source!)
 
 I'm student at UC Berkeley studying Electrical Engineering and Computer Science, and I love to create!
 
-:sunny: I'm building web applications with [Web Development at Berkeley](https://webatberkeley.org/) for various clients! 
+Currently, I'm...
 
-🔭 I’m currently working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between users and operations associates.
+⚡ interning at [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
 
-🌱 At the moment, I’m learning how to transfer my artistic abilities to the digital realm :) check out some of my work [here](https://laurapei.carrd.co/)!
+:sunny: building web applications with [Web Development at Berkeley](https://webatberkeley.org/) for various clients! 
+
+🔭 working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between users and operations associates.
+
+🌱 learning how to transfer my artistic abilities to the digital realm :) check out some of my work [here](https://laurapei.carrd.co/)!
 
 <!--
 some of the other things I didn't include xd
@@ -37,6 +41,6 @@ Officer :heartpulse:
 ⚡ Fun fact: One day (post-COVID), I hope to travel the world! :earth_americas: :dizzy: :sparkles: aha
 -->
 
-😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, Ruby on Rails, React, C#, as well as developer tools such as React, Flask, and Bootstrap to develop software!
+😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, Ruby on Rails, React, C#, as well as developer tools such as Unity, React, Flask, and Bootstrap to develop software!
 
 📫 You can reach me through email at <laur@berkeley.edu>, or through LinkedIn at https://www.linkedin.com/in/laurapei/
