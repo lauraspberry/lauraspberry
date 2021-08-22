@@ -20,6 +20,8 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 Currently, I'm...
 
+🌱 working as a course tutor for CS 61A at Berkeley 🐻
+
 :sunny: building web applications with [Web Development at Berkeley](https://webatberkeley.org/) for various clients! 
 
 🔭 working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between users and operations associates.
