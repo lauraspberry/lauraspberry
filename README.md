@@ -20,8 +20,6 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 Currently, I'm...
 
-⚡ interning at [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
-
 :sunny: building web applications with [Web Development at Berkeley](https://webatberkeley.org/) for various clients! 
 
 🔭 working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between users and operations associates.
@@ -40,6 +38,8 @@ Officer :heartpulse:
 * The curriculum I'm building for next year's [CS Kickstart](https://cs-kickstart.berkeley.edu/index.html) program :bear:
 ⚡ Fun fact: One day (post-COVID), I hope to travel the world! :earth_americas: :dizzy: :sparkles: aha
 -->
+
+This summer, I interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
 
 😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, Ruby on Rails, React, C#, as well as developer tools such as Unity, React, Flask, and Bootstrap to develop software!
 
