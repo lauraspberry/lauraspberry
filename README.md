@@ -22,7 +22,7 @@ Currently, I'm...
 
 🌱 working as a course tutor for [CS 61A](https://cs61a.org/) at Berkeley 🐻
 
-:sunny: building web applications with [Web Development at Berkeley](https://webatberkeley.org/) for various clients! 
+:sunny: building web applications with [Web Development at Berkeley](https://webatberkeley.org/)! 
 
 🔭 working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between users and operations associates.
 
