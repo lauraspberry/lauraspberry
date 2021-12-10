@@ -43,7 +43,9 @@ Officer :heartpulse:
 🔭 working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between users and operations associates.
 -->
 
-This summer, I interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
+This past summer, I interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
+
+This coming summer, I will be interning at ⚡ [Amazon](http://amazon.com/)!
 
 😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, Ruby on Rails, React, C#, as well as developer tools such as Unity, React, Flask, and Bootstrap to develop software!
 
