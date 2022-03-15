@@ -20,13 +20,17 @@ I'm student at UC Berkeley studying Electrical Engineering and Computer Science,
 
 Currently, I'm...
 
+🌱 developing with [Berkeley Codeology](https://codeology.club/) 🥑
+
 🌱 working as a course tutor for [CS 61A](https://cs61a.org/) at Berkeley 🐻
+
+🌱 building the world's largest collegiate hackathon with [Cal Hacks](https://calhacks.io/) 🚀
 
 :sunny: building web applications with [Web Development at Berkeley](https://webatberkeley.org/)! 
 
 🔭 a teaching assistant for UC Berkeley's [Web Design Decal](wdd.io)
 
-🌱 learning how to transfer my artistic abilities to the digital realm :) check out some of my work [here](https://laurapei.carrd.co/)!
+🌱 learning how to transfer my artistic abilities to the digital realm :)
 
 <!--
 some of the other things I didn't include xd
@@ -43,10 +47,10 @@ Officer :heartpulse:
 🔭 working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between users and operations associates.
 -->
 
-This past summer, I interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
-
 This coming summer, I will be interning at ⚡ [Amazon](http://amazon.com/)!
 
-😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, Ruby on Rails, React, C#, as well as developer tools such as Unity, React, Flask, and Bootstrap to develop software!
+This past summer, I interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
+
+😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, as well as developer tools such as Unity, React, Flask, and Bootstrap to develop software!
 
 📫 You can reach me through email at <laur@berkeley.edu>, or through LinkedIn at https://www.linkedin.com/in/laurapei/
