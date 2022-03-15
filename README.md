@@ -26,9 +26,7 @@ Currently, I'm...
 
 🌱 building the world's largest collegiate hackathon with [Cal Hacks](https://calhacks.io/) 🚀
 
-:sunny: building web applications with [Web Development at Berkeley](https://webatberkeley.org/)! 
-
-🔭 a teaching assistant for UC Berkeley's [Web Design Decal](wdd.io)
+🌱 designing web applications with [Web Development at Berkeley](https://webatberkeley.org/) :sunny: 
 
 🌱 learning how to transfer my artistic abilities to the digital realm :)
 
@@ -45,6 +43,7 @@ Officer :heartpulse:
 ⚡ Fun fact: One day (post-COVID), I hope to travel the world! :earth_americas: :dizzy: :sparkles: aha
 
 🔭 working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between users and operations associates.
+🔭 a teaching assistant for UC Berkeley's [Web Design Decal](wdd.io)
 -->
 
 This coming summer, I will be interning at ⚡ [Amazon](http://amazon.com/)!
