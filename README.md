@@ -48,7 +48,7 @@ Officer :heartpulse:
 
 This coming summer, I will be interning at ⚡ [Amazon](http://amazon.com/)!
 
-This past summer, I interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
+Previously, I've interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
 
 😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, as well as developer tools such as Unity, React, Flask, and Bootstrap to develop software!
 
