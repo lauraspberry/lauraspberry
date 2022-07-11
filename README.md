@@ -18,7 +18,7 @@ https://gist.github.com/rxaviers/7360908 for emojis (my source!)
 
 I'm student at UC Berkeley studying Electrical Engineering and Computer Science, and I love to create!
 
-This summer, I'm interning at ⚡ [Amazon](http://amazon.com/)
+This summer, I'm interning at ⚡ [Amazon](http://amazon.com/) ⚡
 
 In school, I'm...
 
