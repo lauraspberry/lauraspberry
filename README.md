@@ -18,7 +18,9 @@ https://gist.github.com/rxaviers/7360908 for emojis (my source!)
 
 I'm student at UC Berkeley studying Electrical Engineering and Computer Science, and I love to create!
 
-Currently, I'm...
+This summer, I'm interning at ⚡ [Amazon](http://amazon.com/)
+
+In school, I'm...
 
 🌱 developing with [Berkeley Codeology](https://codeology.club/) 🥑
 
@@ -44,8 +46,6 @@ Officer :heartpulse:
 🔭 working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between users and operations associates.
 🔭 a teaching assistant for UC Berkeley's [Web Design Decal](wdd.io)
 -->
-
-This coming summer, I will be interning at ⚡ [Amazon](http://amazon.com/)!
 
 Previously, I've interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
 
