@@ -22,11 +22,7 @@ Currently, I'm...
 
 🌱 developing with [Berkeley Codeology](https://codeology.club/) 🥑
 
-🌱 working as a course tutor for [CS 61A](https://cs61a.org/) at Berkeley 🐻
-
 🌱 building the world's largest collegiate hackathon with [Cal Hacks](https://calhacks.io/) 🚀
-
-🌱 designing web applications with [Web Development at Berkeley](https://webatberkeley.org/) :sunny: 
 
 🌱 learning how to transfer my artistic abilities to the digital realm :)
 
@@ -41,6 +37,9 @@ Officer :heartpulse:
 * The games I made using Unity: [Shrink](https://lauraspberry.itch.io/shrink) and [Attack of the Boba Vampires](https://troutstick.itch.io/bobavamps-01) :sunny:
 * The curriculum I'm building for next year's [CS Kickstart](https://cs-kickstart.berkeley.edu/index.html) program :bear:
 ⚡ Fun fact: One day (post-COVID), I hope to travel the world! :earth_americas: :dizzy: :sparkles: aha
+
+🌱 working as a course tutor for [CS 61A](https://cs61a.org/) at Berkeley 🐻
+🌱 designing web applications with [Web Development at Berkeley](https://webatberkeley.org/) :sunny: 
 
 🔭 working on building a full stack web application for [Connect@Cal](https://connected.berkeley.edu/) to optimize communication between users and operations associates.
 🔭 a teaching assistant for UC Berkeley's [Web Design Decal](wdd.io)
