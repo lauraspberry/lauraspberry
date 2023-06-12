@@ -45,9 +45,11 @@ Officer :heartpulse:
 🔭 a teaching assistant for UC Berkeley's [Web Design Decal](wdd.io)
 -->
 
+This summer, I'm a SWE Intern at ⚡ [Datadog](https://www.datadoghq.com/).
+
 This past summer, I was an SDE Intern at ⚡ [Amazon](http://amazon.com/) ⚡ on the private 5G team.
 
-Before that, I've interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine.
+<!-- Before that, I've interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine. -->
 
 😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, as well as developer tools such as Unity, React, Flask, and Bootstrap to develop software!
 
