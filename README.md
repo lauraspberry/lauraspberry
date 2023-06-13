@@ -45,7 +45,7 @@ Officer :heartpulse:
 🔭 a teaching assistant for UC Berkeley's [Web Design Decal](wdd.io)
 -->
 
-This summer, I'm a SWE Intern at ⚡ [Datadog](https://www.datadoghq.com/).
+This summer, I'm a SWE Intern at 🐶 [Datadog](https://www.datadoghq.com/) 🐶
 
 This past summer, I was an SDE Intern at ⚡ [Amazon](http://amazon.com/) ⚡ on the private 5G team.
 
