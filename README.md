@@ -46,7 +46,7 @@ Officer :heartpulse:
 -->
 
 Previously: 
-- SWE Intern at [Datadog](https://www.datadoghq.com/) 🐶 on working on low code tools
+- SWE Intern at [Datadog](https://www.datadoghq.com/) 🐶 working on low code tools
 - SDE Intern at [Amazon](http://amazon.com/) ⚡ on the private 5G team
 
 <!-- Before that, I've interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine. 
