@@ -16,9 +16,10 @@ Here are some ideas to get you started!!
 https://gist.github.com/rxaviers/7360908 for emojis (my source!)
 -->
 
-I'm student at UC Berkeley studying Electrical Engineering and Computer Science, and I love to create!
+I'm Laura, a student at UC Berkeley studying Electrical Engineering and Computer Science 🌱
 
-Currently, I'm...
+<!--
+Currently, I'm ...
 
 🌱 developing with [Berkeley Codeology](https://codeology.club/) 🥑
 
@@ -26,7 +27,6 @@ Currently, I'm...
 
 🌱 learning how to transfer my artistic abilities to the digital realm :)
 
-<!--
 some of the other things I didn't include xd
 👯 Some things I'm proud of:   
 * Creating and designing a web application for a [hackathon](https://devpost.com/software/ingrain) that won a prize for best design :sunny:
@@ -45,12 +45,11 @@ Officer :heartpulse:
 🔭 a teaching assistant for UC Berkeley's [Web Design Decal](wdd.io)
 -->
 
-This summer, I'm a SWE Intern at 🐶 [Datadog](https://www.datadoghq.com/) 🐶
+Previously: 
+- SWE Intern at [Datadog](https://www.datadoghq.com/) 🐶 on working on low code tools
+- SDE Intern at [Amazon](http://amazon.com/) ⚡ on the private 5G team
 
-This past summer, I was an SDE Intern at ⚡ [Amazon](http://amazon.com/) ⚡ on the private 5G team.
-
-<!-- Before that, I've interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine. -->
-
+<!-- Before that, I've interned at ⚡ [Emerge](http://emerge.io/) to develop and design 3D Virtual Reality experiences using the Unity Game Engine. 
 😄 From these projects, I've worked with Python, Java, Javascript, HTML/CSS, as well as developer tools such as Unity, React, Flask, and Bootstrap to develop software!
-
 📫 You can reach me through email at <laur@berkeley.edu>, or through LinkedIn at https://www.linkedin.com/in/laurapei/
+-->
