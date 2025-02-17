@@ -16,7 +16,7 @@ Here are some ideas to get you started!!
 https://gist.github.com/rxaviers/7360908 for emojis (my source!)
 -->
 
-I'm Laura, and I'm currently a Software Engineer at Stripe. Always building, learning, and exploring 🌱
+I'm Laura, and I'm currently a Software Engineer at [Stripe](https://stripe.com/). Always building, learning, and exploring 🌱
 
 <!--
 Currently, I'm ...
