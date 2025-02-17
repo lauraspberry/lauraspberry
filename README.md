@@ -16,7 +16,7 @@ Here are some ideas to get you started!!
 https://gist.github.com/rxaviers/7360908 for emojis (my source!)
 -->
 
-I'm Laura, a student at UC Berkeley studying Electrical Engineering and Computer Science 🌱
+I'm Laura, and I'm currently a Software Engineer at Stripe. Always building, learning, and exploring 🌱
 
 <!--
 Currently, I'm ...
@@ -46,6 +46,8 @@ Officer :heartpulse:
 -->
 
 Previously: 
+- Student at UC Berkeley studying Electrical Engineering and Computer Science 🐻
+- SWE Intern at [Asana](http://asana.com/) 🎈 working on Forms
 - SWE Intern at [Datadog](https://www.datadoghq.com/) 🐶 working on low code tools
 - SDE Intern at [Amazon](http://amazon.com/) ⚡ on the private 5G team
 
