@@ -14,9 +14,10 @@ Here are some ideas to get you started!!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://gist.github.com/rxaviers/7360908 for emojis (my source!)
+Software Engineer at [Stripe](https://stripe.com/)
 -->
 
-I'm Laura, and I'm currently a Software Engineer at [Stripe](https://stripe.com/). Always building, learning, and exploring 🌱
+I'm Laura, and I'm currently a student at UC Berkeley 🐻. Always building, learning, and exploring 🌱
 
 <!--
 Currently, I'm ...
