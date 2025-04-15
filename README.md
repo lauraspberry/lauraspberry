@@ -15,6 +15,8 @@ Here are some ideas to get you started!!
 - ⚡ Fun fact: ...
 https://gist.github.com/rxaviers/7360908 for emojis (my source!)
 Software Engineer at [Stripe](https://stripe.com/)
+- Student at UC Berkeley studying Electrical Engineering and Computer Science 🐻
+
 -->
 
 I'm Laura, and I'm currently a student at UC Berkeley 🐻. Always building, learning, and exploring 🌱
@@ -47,7 +49,6 @@ Officer :heartpulse:
 -->
 
 Previously: 
-- Student at UC Berkeley studying Electrical Engineering and Computer Science 🐻
 - SWE Intern at [Asana](http://asana.com/) 🎈 working on Forms
 - SWE Intern at [Datadog](https://www.datadoghq.com/) 🐶 working on low code tools
 - SDE Intern at [Amazon](http://amazon.com/) ⚡ on the private 5G team
